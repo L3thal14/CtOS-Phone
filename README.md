@@ -7,7 +7,7 @@
 <img src="https://github.com/L3thal-infosec/CtOS-Phone/blob/master/textures/READMETEXTS/fbhackathon.png?raw=true" alt="Demo Picture" height="30" />
 
 [![GitHub stars](https://img.shields.io/github/stars/L3thal-infosec/CtOS-Phone.svg?logo=github)]([https://github.com/L3thal-infosec/CtOS-Phone/stargazers](https://github.com/L3thal-infosec/CtOS-Phone/stargazers)) [![GitHub forks](https://img.shields.io/github/forks/L3thal-infosec/CtOS-Phone.svg?logo=github&color=teal)]([https://github.com/L3thal-infosec/CtOS-Phone/network/](https://github.com/L3thal-infosec/CtOS-Phone/network/))
-[![Project Video](https://github.com/L3thal-infosec/CtOS-Phone/blob/master/textures/READMETEXTS/yttemplate.png)](https://www.youtube.com/watch?v=S1ZozMmvHzA)
+[![Project Video](https://github.com/L3thal-infosec/CtOS-Phone/blob/master/textures/READMETEXTS/yttemp.png)](https://www.youtube.com/watch?v=S1ZozMmvHzA)
 <br>
 
 ### [PROJECT LINK(DEVPOST)](https://devpost.com/software/ctos-phone "Devpost")		
